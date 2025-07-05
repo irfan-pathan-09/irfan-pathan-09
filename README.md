@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @irfan-pathan-09
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning webDevelopment
+- 👾 I know some basic of webDevelopment
+- 🌱 I’m currently learning Data analitics
 - 💞️ I’m looking to collaborate with someone 
 - 📫 How to reach me 
   => Email : khanirfanpathan389@gmail.com
